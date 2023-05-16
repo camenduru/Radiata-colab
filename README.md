@@ -3,7 +3,7 @@
 
 ## 🚦 WIP 🚦
 
-### 🦒 Colab Pro
+### 🦒 Colab
 
 | Colab | Info
 | --- | --- |
