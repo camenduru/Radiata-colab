@@ -13,6 +13,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/chilloutmix_radiata_colab.ipynb) | chilloutmix_radiata_colab <br /> [TASUKU2023/chilloutmix](https://civitai.com/models/6424/chilloutmix)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/cetus_mix_coda2_radiata_colab.ipynb) | cetus_mix_coda2_radiata_colab <br /> [Eagelaxis/cetus-mix](https://civitai.com/models/6755/cetus-mix)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/henmixreal_v4_radiata_colab.ipynb) | henmixreal_v4_radiata_colab <br /> [heni29833/henmixreal](https://civitai.com/models/20282/henmixreal)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/deliberate_v2_radiata_colab.ipynb) | deliberate_v2_radiata_colab <br /> [XpucT/deliberate](https://civitai.com/models/4823/deliberate)
 
 ## Main Repo
 https://github.com/ddPn08/Radiata (Thanks to @ddPn08 ❤)
