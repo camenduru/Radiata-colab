@@ -11,9 +11,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/bra_v5_radiata_colab.ipynb) | bra_v5_radiata_colab <br /> [pleasebankai/brabeautiful-realistic-asians-v4](https://civitai.com/models/25494/brabeautiful-realistic-asians-v4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/majic_mix_realistic_radiata_colab.ipynb) | majic_mix_realistic_radiata_colab <br /> [4044/majicmix-realistic](https://civitai.com/models/43331/majicmix-realistic)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/chilloutmix_radiata_colab.ipynb) | chilloutmix_radiata_colab <br /> [TASUKU2023/chilloutmix](https://civitai.com/models/6424/chilloutmix)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/cetus_mix_coda2_radiata_colab.ipynb) | cetus_mix_coda2_radiata_colab <br /> [Eagelaxis/cetus-mix](https://civitai.com/models/6755/cetus-mix)
 
 ## Main Repo
 https://github.com/ddPn08/Radiata (Thanks to @ddPn08 ❤)
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+
