@@ -16,6 +16,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/deliberate_v2_radiata_colab.ipynb) | deliberate_v2_radiata_colab <br /> [XpucT/deliberate](https://civitai.com/models/4823/deliberate)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/counterfeit_v3_radiata_colab.ipynb) | counterfeit_v3_radiata_colab <br /> [rqdwdw/counterfeit-v30](https://civitai.com/models/4468/counterfeit-v30)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/meina_mix_v9_radiata_colab.ipynb) | meina_mix_v9_radiata_colab <br /> [Meina/meinamix](https://civitai.com/models/7240/meinamix)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Radiata-colab/blob/main/disney_pixar_cartoon_type_a_radiata_colab.ipynb) | disney_pixar_cartoon_type_a_radiata_colab <br /> [PromptSharingSamaritan/disney-pixar-cartoon-type-a](https://civitai.com/models/65203/disney-pixar-cartoon-type-a)
 
 ## Main Repo
 https://github.com/ddPn08/Radiata (Thanks to @ddPn08 ❤)
